@@ -4,3 +4,12 @@
 - 💞️ I’m looking to collaborate on different software development projects
 - 📫 You can reach me via malibongwehlongwane83@gmail.com for collab....
 
+Here are some technologies I have been working with:
+Javascript ES6+
+C#
+Python
+React.js
+Java
+Node.js
+HTML & CSS
+Outside of work, I am a professional Ice Skater. I'm interested in following the developments of science
